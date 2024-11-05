@@ -1,7 +1,7 @@
 <div align=center> 
   <p>
 
-  <a href="mailto:realyoon77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/realyoon77@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:developer.joonjae@gmail.com" target="_blank"><img src="https://img.shields.io/badge/realyoon77@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   
 </p>
