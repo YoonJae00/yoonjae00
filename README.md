@@ -10,11 +10,10 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoonjae00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjae00&layout=compact&hide_border=true&theme=white)
-  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoonjae00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
  
 
-  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yoonjae00&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 
 <h3 align="center"> Tech Stack </h3>
