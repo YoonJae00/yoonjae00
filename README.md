@@ -13,8 +13,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoonjae00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
  
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yoonjae00&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
 
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
