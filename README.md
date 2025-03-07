@@ -62,6 +62,7 @@
         <td>Backend</td>
         <td>
             <img src="https://img.shields.io/badge/node.js-1C3C3C.svg?style=for-the-badge&logo=node.js&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
             <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=ffffff" /><br>
             <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=ffffff" />
