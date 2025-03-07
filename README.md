@@ -14,23 +14,74 @@
  
 
 
-
-<h3 align="center"> Tech Stack </h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-</p>
-
+<div align="left">
+    <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > :zap: Skills </h2>
+    <img width="30%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjae00&show_icons=true&theme=holi"/>
+    <table style="border-collapse: collapse; border: none;" width="60%">
+    <tr>
+        <td>Language</td>
+        <td>
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+            <img src="https://img.shields.io/badge/java-BC1823.svg?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+            <img src="https://img.shields.io/badge/matlab-FF9045.svg?style=for-the-badge"/>
+        </td>
+    </tr>
+    <tr>
+        <td>AI</td>
+        <td>
+            <img src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=fffff" />
+            <img src="https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=fffff" /><br>
+            <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=fffff" />
+            <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+        </td>
+    </tr>
+    <tr>
+        <td>DB</td>
+        <td>
+            <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=fffff" />
+            <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=FFFFFF" /> 
+            <img src="https://img.shields.io/badge/chroma-FFDE59.svg?style=for-the-badge&logo=chroma&logoColor=FFFFFF" /><br>
+            <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+            <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />
+            <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            InfraStructure
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/celery-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
+        </td>
+    </tr>
+    <tr>
+        <td>Backend</td>
+        <td>
+            <img src="https://img.shields.io/badge/node.js-1C3C3C.svg?style=for-the-badge&logo=node.js&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=ffffff" /><br>
+            <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=ffffff" />
+        </td>
+    </tr>
+    <tr>
+        <td>Frontend</td>
+        <td>
+            <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+            <img src="https://img.shields.io/badge/react native-20232a.svg?style=for-the-badge&logo=reactnative&logoColor=61DAFB" />
+        </td>
+    </tr>
+    <tr>
+        <td>Data Access</td>
+        <td>
+            <img src="https://img.shields.io/badge/mybatis-E8E8E8.svg?style=for-the-badge&logo=mybatis&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/jpa-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
+        </td>
+    </tr>
+</table>
 </div>
 </div>
