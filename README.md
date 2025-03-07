@@ -48,11 +48,12 @@
     </tr>
     <tr>
         <td>
-            InfraStructure
+            CI/CD
         </td>
         <td>
             <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/celery-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/docker-compose-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/NGINX-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
         </td>
     </tr>
     <tr>
@@ -78,6 +79,7 @@
         <td>
             <img src="https://img.shields.io/badge/mybatis-E8E8E8.svg?style=for-the-badge&logo=mybatis&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/jpa-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
+          <img src="https://img.shields.io/badge/typeORM-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
         </td>
     </tr>
 </table>
