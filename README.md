@@ -22,10 +22,11 @@
         <td>Language</td>
         <td>
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-            <img src="https://img.shields.io/badge/java-BC1823.svg?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
             <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-            <img src="https://img.shields.io/badge/matlab-FF9045.svg?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -34,6 +35,7 @@
             <img src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=fffff" />
             <img src="https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=fffff" /><br>
             <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=fffff" />
+            <img src="https://img.shields.io/badge/vLLM&SGLANG-000000.svg?style=for-the-badge&logo=vllm&logoColor=fffff" />
         </td>
     </tr>
     <tr>
@@ -43,7 +45,7 @@
             <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=FFFFFF" /> 
             <img src="https://img.shields.io/badge/chroma-FFDE59.svg?style=for-the-badge&logo=chroma&logoColor=FFFFFF" /><br>
             <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />
-            <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+            <img src="https://img.shields.io/badge/milvus-000000.svg?style=for-the-badge&logo=milvus&logoColor=FFFFFF" />
         </td>
     </tr>
     <tr>
@@ -52,8 +54,8 @@
         </td>
         <td>
             <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/docker compose-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/NGINX-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/docker compose-ffffff.svg?style=for-the-badge&logo=docker-compose&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/NGINX-37814A.svg?style=for-the-badge&logo=nginx&logoColor=ffffff" />
         </td>
     </tr>
     <tr>
@@ -72,6 +74,7 @@
         <td>
             <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
             <img src="https://img.shields.io/badge/react native-20232a.svg?style=for-the-badge&logo=reactnative&logoColor=61DAFB" />
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>          
         </td>
     </tr>
     <tr>
